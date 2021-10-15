@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1030bbb-3a38-428b-bae9-168d30d0a51b" name="Changes" comment="Final">
+      <change beforePath="$PROJECT_DIR$/images/chua75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/chua75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sorkin75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sorkin75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/toobin75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/toobin75.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/town_hall_logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/images/town_hall_logo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toobin.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1zS5nkWQ8munSXubbuvCzPFPAeU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/A08/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1030bbb-3a38-428b-bae9-168d30d0a51b" name="Changes" comment="" />
+      <created>1634128817478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634128817478</updated>
+      <workItem from="1634128818954" duration="3735000" />
+      <workItem from="1634133532063" duration="2393000" />
+      <workItem from="1634171035906" duration="2107000" />
+      <workItem from="1634254977911" duration="644000" />
+      <workItem from="1634300846179" duration="3010000" />
+    </task>
+    <task id="LOCAL-00001" summary="Logo">
+      <created>1634132685732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634132685732</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Speakers">
+      <created>1634172554792</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1634172554792</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Speakers">
+      <created>1634172626860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1634172626860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Speaker">
+      <created>1634172703466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1634172703466</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Speakers">
+      <created>1634172855253</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1634172855253</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final">
+      <created>1634301946106</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1634301946106</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final">
+      <created>1634302575778</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1634302575778</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final">
+      <created>1634302859270</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1634302859270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final">
+      <created>1634303341877</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1634303341877</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final">
+      <created>1634303356545</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634303356545</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final">
+      <created>1634303729180</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1634303729180</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Logo" />
+    <MESSAGE value="Speaker" />
+    <MESSAGE value="Speakers" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
+  </component>
+</project>
